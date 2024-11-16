@@ -1,0 +1,19 @@
+{
+    "name": "@hexaform/configuration",
+    "version": "1.1.0",
+    "description": "Configuration module for Hexaform",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/hexaform/configuration.git"
+    },
+    "author": "Igor Stojadinović <mightytroll@gmail.com> (https://www.linkedin.com/in/igorstojadinovic/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hexaform/configuration/issues"
+    },
+    "homepage": "https://github.com/hexaform/configuration#readme",
+    "peerDependencies": {
+        "config": "^3.3.12"
+    }
+}
